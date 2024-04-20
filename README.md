@@ -1,6 +1,6 @@
 # Apriori_Algorithm
 
-# Apriori_Algorithm GUI
+
 
 This is a Python application built using Tkinter, a standard GUI (Graphical User Interface) toolkit for Python. It provides a user-friendly interface for processing data using the Apriori algorithm for association rule mining.
 
